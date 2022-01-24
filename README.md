@@ -1,2 +1,3 @@
-# Program-Achmad-Nabil-Afgareza.java
+# Program-Menghitung-Nilai-Rapot
+.java
 Program ini Milik Achmad Nabil Afgareza.
